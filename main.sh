@@ -160,5 +160,3 @@ echo "Setting up auto-renewal for Certbot..."
 sudo certbot renew --dry-run
 
 echo "SSL certificate installed and auto-renewal is enabled!"
-
-echo "FileBrowser with SSL is now set up and running!"
